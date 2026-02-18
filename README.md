@@ -72,6 +72,8 @@ UI primitives (`Button`, `Input`, `Modal`, `Select`, `Typography`) live in `src/
 - **Lucide React** — icons
 - **clsx** — conditional class name helper
 
-Note: I decided to add a few fields that are not returned by the API, to have more freedom in design and to make the app seem more fit for a Patient Managing Dashboard. 
+## Note
+
+I decided to add a few fields that are not returned by the API, to have more freedom in design and to make the app seem more fit for a Patient Managing Dashboard. 
 
 I added email, phone, dateOfBirth, status, bloodType and appointmentDate to the Patient as fields that can be filled in the form.
